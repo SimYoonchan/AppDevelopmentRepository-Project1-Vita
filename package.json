@@ -1,0 +1,24 @@
+{
+  "name": "vita",
+  "version": "0.0.1",
+  "description": "A Health Portal App created by Yoonchan Sim",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dev:watch": "npx electronmon --trace-warnings ." 
+  },
+  "keywords": [
+    "electron",
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "bootstrap"
+  ], 
+  "author": "Yoonchan Sim",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^29.1.4"
+  }
+}
